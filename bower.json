@@ -1,0 +1,33 @@
+
+{
+  "name": "purescript-stack",
+  "homepage": "https://github.com/ashutoshdas96/purescript-stack.git",
+  "description": "Stack data structure and associated operations",
+  "authors": [
+    "Ashutosh Das"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashutoshdas96/purescript-stack.git"
+  },
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules",
+    "output",
+    "test",
+    "bower.json",
+    "package.json"
+  ],
+  "dependencies": {
+    "purescript-tuples": "^5.1.0",
+    "purescript-lists": "^5.4.0",
+    "purescript-maybe": "^4.0.1"
+  },
+  "devDependencies": {
+    "purescript-assert": "^4.0.0",
+    "purescript-console": "^4.0.0"
+  },
+  "version": "1.0"
+}
