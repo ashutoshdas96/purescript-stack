@@ -1,0 +1,2 @@
+# purescript-stack
+Data.Stack
